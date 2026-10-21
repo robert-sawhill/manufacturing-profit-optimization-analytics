@@ -1,6 +1,0 @@
-product_id,product_name,customer_segment,profit,production_cost,labor_hours,machine_hours,raw_material_cost
-PROD_001,Vitamin D3,Fit2U,125000,45000,120,80,25000
-PROD_002,Omega 3,Advacare,210000,85000,200,150,50000
-PROD_003,Multivitamin,Retail_Direct,95000,35000,90,60,18000
-PROD_004,Probiotics,Fit2U,310000,110000,250,190,65000
-PROD_005,Magnesium,Advacare,175000,60000,150,110,32000
